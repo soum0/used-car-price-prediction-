@@ -57,24 +57,7 @@ The solution uses a **Linear Regression** model to capture the relationships bet
      - R-squared Score
    - Cross-validation was used to ensure the model's robustness.
 
-## Installation
 
-To run this project locally, follow the instructions below:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/used-car-price-prediction.git
-   cd used-car-price-prediction
-   ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter notebook or Python script:
-   ```bash
-   jupyter notebook CarPricePrediction.ipynb
    ```
 
 ## Dependencies
